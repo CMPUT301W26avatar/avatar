@@ -4,7 +4,7 @@
 
 List any resources used here, or simply put `N/A` if not applicable.
 
-N/A
+Lab 4 Participation Exercise
 
 ## Verbal Collaboration
 
