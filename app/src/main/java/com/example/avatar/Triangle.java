@@ -1,4 +1,7 @@
 package com.example.avatar;
 
-public class Triangle {
+public class Triangle extends Shape {
+    public Triangle(int x, int y) {
+        super(x, y);
+    }
 }
