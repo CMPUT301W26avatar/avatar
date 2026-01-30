@@ -4,8 +4,8 @@ public abstract class Shape {
 
     private int x;
     private int y;
-
-    private String color = "$YOUR_COLOR_HERE";
+   
+    private String color = "RED"; 
     public Shape(int x, int y) {
         this.x = x;
         this.y = y;
